@@ -236,3 +236,10 @@ cond(no)->op
 ## 十一、表情
 Github的Markdown语法支持添加emoji表情，输入不同的符号码（两个冒号包围的字符）可以显示出不同的表情。
 比如:blush:`:blush:`，可以显示
+
+---
+## License
+[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg?style=flat-square)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+![LICENSE](https://camo.githubusercontent.com/e934e01570a530a0c909b52bb39448b30954025d/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f4e695a6572696e2f576543686174426c6f672e737667)
+![LICENSE](https://camo.githubusercontent.com/3867ce531c10be1c59fae9642d8feca417d39b58/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f636f6f6b6965592f596561726e696e672e737667)
+![LICENSE](https://camo.githubusercontent.com/a50dc5529234331cd1a163a3083724929055ee94/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f6973566572746963616c2f61746f6d2e6373732e737667)
