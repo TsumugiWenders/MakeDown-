@@ -205,7 +205,8 @@ e=>end
 st->op->cond
 cond(yes)->e
 cond(no)->op
-&```
+&
+```
 
 ---
 ## 十一、表情
