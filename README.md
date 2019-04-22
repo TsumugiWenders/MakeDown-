@@ -238,6 +238,12 @@ Github的Markdown语法支持添加emoji表情，输入不同的符号码（两�
 比如:blush:`:blush:`，可以显示
 
 ---
+## 十二、换行
+markdownpad2中可以使用双空格或双回车进行换行。
+GitHub中回车和</br>换行。
+miu中回车换行。
+
+---
 ## License
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg?style=flat-square)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 ![LICENSE](https://camo.githubusercontent.com/e934e01570a530a0c909b52bb39448b30954025d/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f4e695a6572696e2f576543686174426c6f672e737667)
